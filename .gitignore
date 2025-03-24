@@ -1,0 +1,8 @@
+# files and file types to ignore
+*.pyc
+**/cache/
+**/td/
+**/.ipynb_checkpoints/
+__pycache__/
+.vscode/
+.venv*
